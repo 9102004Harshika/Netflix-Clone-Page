@@ -1,6 +1,3 @@
 <img src="logo.png">
-This a clone page of netflix .
-<center>
-
- </center>
+<hr>
  <img src="netflix.png">
