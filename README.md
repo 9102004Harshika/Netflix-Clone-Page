@@ -1,4 +1,4 @@
-#<img src="logo.png">
+<img src="logo.png">
 This a clone page of netflix .
 <center>
 
