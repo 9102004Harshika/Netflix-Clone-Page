@@ -1,6 +1,6 @@
-# Netflix-Clone-Page
+<img src="logo.png">
 This a clone page of netflix .
 <center>
-<img src="logo.png">
+
  </center>
  <img src="netflix.png">
